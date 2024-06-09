@@ -1,5 +1,4 @@
 # cricbuzz-clone
-![Cricbuzz](https://raw.githubusercontent.com/SumanJK/cricbuzz-clone/36e97Cancel changes9dac6752d38ec0437946932ca675b4bc687/cricbuzz-readme/Cricbuzz_(2021).svg)
 
 Cricbuzz is an Indian cricket news website owned by Times Internet. It features, news, articles and live coverage of cricket matches including videos, text commentary, player stats and team rankings. Their website also offers a mobile app.
 Cricbuzz is one of the most popular mobile apps for cricket news and scores in India.
@@ -12,7 +11,6 @@ We tried to implement some basic functionalities and make a website that looks s
 
 Orginal:- https://www.cricbuzz.com/
 
-Cloned:-  https://cricbuzz-site.netlify.app/index.html
 
 
 ## Tech Stack
@@ -59,12 +57,6 @@ Cloned:-  https://cricbuzz-site.netlify.app/index.html
 User Account Page
 ![Account](https://github.com/SumanJK/cricbuzz-clone/blob/main/cricbuzz-readme/Screenshot%202022-04-30%20at%209.39.01%20PM.png)
 
-
-## Contributors
-- [@Suman Giri](https://github.com/SumanJK)
-- [@Sudhir Chavhan](https://github.com/SudhirPC)
-- [@Shravani Nilange](https://github.com/shrawaninilange)
-- [@dhawal07](https://github.com/dhawal07)
 
 
 
